@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "ctype.h": "c",
+    "*.tcc": "c",
+    "random": "c",
+    "fstream": "c",
+    "functional": "c",
+    "istream": "c",
+    "limits": "c",
+    "ostream": "c",
+    "sstream": "c",
+    "streambuf": "c",
+    "tuple": "c",
+    "set.h": "c",
+    "string": "c",
+    "array": "c",
+    "type_traits": "c"
+  }
+}
